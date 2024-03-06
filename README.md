@@ -15,6 +15,10 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang
 - ParkingLot : kapasitas, jumlah kendaraan saat ini
 
 ## Desain Program
+![LP4](https://github.com/Osaraku/LP4DPBO2024C2/assets/117560099/109ebed1-07a0-4336-8b91-7ca18678bef2)
+
+## Penjelasan Desain Program
+
 
 ## Dokumentasi
 ### Dokumentasi CPP
