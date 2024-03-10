@@ -24,3 +24,7 @@ Program terdiri dari 5 kelas, yaitu kelas Vehicle, Car, Motorcycle, Garage, dan 
 ### Dokumentasi CPP
 ![CPP program](CPP/Screenshot/Screenshot-1.png)
 ![CPP program](CPP/Screenshot/Screenshot-2.png)
+
+### Dokumentasi Python
+![Python program](Python/Screenshot/Screenshot-1.png)
+![Python program](Python/Screenshot/Screenshot-2.png)
