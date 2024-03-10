@@ -1,3 +1,7 @@
+# Saya Muhamad Tio Ariyanto [2201718] mengerjakan soal Latihan Praktikum 4
+# dalam mata kuliah DPBO untuk keberkahanNya saya tidak melakukan kecurangan
+# seperti yang telah dispesifikasikan. Aamiin
+
 class Vehicle:
     def __init__(self, plat_nomor, merk, tahun_produksi, warna):
         self._plat_nomor = plat_nomor
